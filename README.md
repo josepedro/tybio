@@ -1,2 +1,2 @@
-# tybio
+# Tybio
 TyBio
